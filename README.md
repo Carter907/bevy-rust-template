@@ -45,8 +45,3 @@ Run the project with:
 ```bash
 cargo run
 ```
-
----
-
-## License
-This template is licensed under the [MIT License](LICENSE).
